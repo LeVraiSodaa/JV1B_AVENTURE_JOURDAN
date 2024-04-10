@@ -34,6 +34,20 @@ public class PlayerMovement : MonoBehaviour
             MoveCharacter();
         }
         Debug.Log(change); //pour debug
+
+        if (change.x != 0)
+        {
+            myRigidbody.AddForce(new Vector2(change.x * speed, 0f));
+        }
+
+        if (change.x > 0)
+        {
+            gameObject.transform.localScale = new Vector3(1, 1, 1);
+        }
+        if (change.x < 0)
+        {
+            gameObject.transform.localScale = new Vector3(-1, 1, 1);
+        }
     }
     void MoveCharacter()
     {
