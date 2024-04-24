@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class EnemyFollow : MonoBehaviour
 {
-    public Transform player; // Référence au transform du joueur
+    private Transform player; // Référence au transform du joueur
     public GameObject detectionCircle; // Cercle de détection
     public float followSpeed = 5f; // Vitesse de déplacement de l'ennemi pour suivre le joueur
     public float followDuration = 10f; // Durée pendant laquelle l'ennemi suit le joueur après la détection
@@ -13,12 +13,14 @@ public class EnemyFollow : MonoBehaviour
     {
         // Sauvegarde de l'échelle d'origine
         originalScale = detectionCircle.transform.localScale;
+        player = GameObject.Find("Player").transform;
     }
 
     void Update()
     {
         if (isFollowing)
         {
+            Debug.Log("Teemolaughing");
             // Faites en sorte que l'ennemi regarde toujours vers le joueur
             Vector3 direction = player.position - transform.position;
             float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;

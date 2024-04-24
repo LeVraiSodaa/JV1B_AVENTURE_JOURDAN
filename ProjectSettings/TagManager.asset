@@ -7,6 +7,12 @@ TagManager:
   - clebleu
   - portebleu
   - cam
+  - portejaune
+  - clejaune
+  - porteverte
+  - cleverte
+  - clerouge
+  - porterouge
   layers:
   - Default
   - TransparentFX
