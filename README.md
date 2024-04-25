@@ -13,6 +13,7 @@ Pour la partie Programmation j'ai eu plusieurs complications qui fait que le pro
 - l'inventaire
 - le fait de pouvoir changer de Clavier à Manette (on peut cependant acceder au menu des touches pour vous indiquer celles qui sont utilisables depuis l'écran principal du jeu( On a la touche d'inventaire et d'attaque qui ne sont pas fonctionnel))
 - attaquer les ennemis
+- les animations du Player et des ennemys
 
 J'ai pas pu faire tout ce qui été demandé à cause de pas mal de probleme durant la programmation. J'ai fait en sorte de me focaliser sur les choses qui sont pour moi les plus importantes !
 
