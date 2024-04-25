@@ -27,3 +27,7 @@ Tout les elements dit juste avant seront donné dans un fichier car j'ai fait le
 
 Concernant le Design j'ai juste plusieur soucis de qualité d'image dans le jeu certains elements sont flous donc j'ai préféré les mettres dans des fichiers ! J'ai aussi les animations du Player et des ennemis qui ne sont pas implémenté dans le jeu donc il se trouve dans les fichiers
 Par precautions tout mes designs sont dans des fichiers ( Player, menu, map, objets etc...) si vous rencontrez des problemes durant le jeu !
+le fichier du design s'appelle "Design complet"
+
+Donc enfin si j'avais plus de temps j'aurais vraiment aimé ajouté tout ce que j'ai dit juste avant, j'ai encore des lacunes mais j'espere que pour le ps2 j'aurais un jeu complet !
+Bon jeu à vous
