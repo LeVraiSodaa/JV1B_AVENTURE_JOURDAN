@@ -16,6 +16,7 @@ Pour la partie Programmation j'ai eu plusieurs complications qui fait que le pro
 - les animations du Player et des ennemys
 
 J'ai pas pu faire tout ce qui été demandé à cause de pas mal de probleme durant la programmation. J'ai fait en sorte de me focaliser sur les choses qui sont pour moi les plus importantes !
+et dernierement parfois l'ui est mal cadré dans le jeu en fonction de la taille de la fenetre donc donc les dossiers envoyé j'ai mis à quoi l'ui dot ressembler normallement pour le menu et jeu !!
 
 
 Pour la partie GameDesign et Design j'ai pas pu ajouter de nombreux objets qui aurait pu rendre le jeu meilleur. J'aurais aimé ajouter 3 Objets qui sont :
@@ -31,4 +32,5 @@ Par precautions tout mes designs sont dans des fichiers ( Player, menu, map, obj
 le fichier du design s'appelle "Design complet"
 
 Donc enfin si j'avais plus de temps j'aurais vraiment aimé ajouté tout ce que j'ai dit juste avant, j'ai encore des lacunes mais j'espere que pour le ps2 j'aurais un jeu complet !
+il faut lancer la scene "menu" pour commencer le jeu
 Bon jeu à vous
